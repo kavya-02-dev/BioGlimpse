@@ -117,11 +117,3 @@ This project reflects **production-oriented thinking**, not just a demo applicat
 
 This project is intended for educational and research purposes.
 
-
-
-* Add a **Google-style design tradeoffs section**
-* Create a **data flow diagram**
-* Make this README **resume-optimized**
-* Audit it for **Google interview storytelling**
-
-Just tell me 👍
